@@ -1,0 +1,16 @@
+from tkinter import*
+
+class Ventanta (Tk):
+
+    def __init__(self):
+        super().__init__()
+
+    
+def main():
+    app=Ventanta()
+    app.title('Sistema de Ventas')
+    app.state('zoomed')
+    app.mainloop()
+
+if __name__=='__main__':
+    main()
