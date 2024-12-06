@@ -3,6 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/test/Modelo/ClienteTest.java</file>
+            <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/test/Modelo/loginTest.java</file>
             <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Modelo/Detalle.java</file>
             <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Modelo/ProductosDao.java</file>
             <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Vista/Sistema.java</file>
@@ -12,17 +14,20 @@
             <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Reportes/Grafico.java</file>
             <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Modelo/ProveedorDao.java</file>
             <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Modelo/Combo.java</file>
-            <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Modelo/Conexion.java</file>
-            <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Modelo/Proveedor.java</file>
             <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Modelo/LoginDAO.java</file>
-            <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/sistemaventa/SistemaVenta.java</file>
             <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Img/Nventa.png</file>
             <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Modelo/ClienteDao.java</file>
             <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Modelo/Eventos.java</file>
-            <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Modelo/VentaDao.java</file>
             <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Modelo/Productos.java</file>
             <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Modelo/Cliente.java</file>
             <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Modelo/Config.java</file>
+            <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Modelo/Conexion.java</file>
+            <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Modelo/Proveedor.java</file>
+            <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/sistemaventa/SistemaVenta.java</file>
+            <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/test/Modelo/ProductosTest.java</file>
+            <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/src/Modelo/VentaDao.java</file>
+            <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/test/Modelo/ProveedorTest.java</file>
+            <file>file:/C:/Users/GIO/Documents/Sistema_De_Ventas/test/Modelo/VentaTest.java</file>
         </group>
     </open-files>
 </project-private>
